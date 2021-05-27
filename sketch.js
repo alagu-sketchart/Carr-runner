@@ -55,7 +55,7 @@
   }
 
    database.ref('/').update({
-    food:x = 20 //<-This is for reseting the food back to normal.
-    //food:x = x
+    //food:x = 20 //<-This is for reseting the food back to normal.
+    food:x = x
    })
    }
